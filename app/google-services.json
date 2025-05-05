@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933348898325",
+    "project_id": "agguvenligi-3d664",
+    "storage_bucket": "agguvenligi-3d664.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933348898325:android:605c0268ef68fdc250001c",
+        "android_client_info": {
+          "package_name": "com.example.sifre_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjtnQ9kSPUncDDiCaOMOk_3NkWDs4AMu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

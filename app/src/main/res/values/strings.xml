@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Uygulama -->
+    <string name="app_name">Sifre App</string>
+    <string name="app_description">Güvenli mesajlaşma uygulaması</string>
+
+    <!-- Ana Ekran -->
+    <string name="welcome">Hoş Geldiniz</string>
+    <string name="login">Giriş Yap</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="email">E-posta</string>
+    <string name="password">Şifre</string>
+    <string name="forgot_password">Şifremi Unuttum</string>
+    <string name="no_account">Hesabınız yok mu?</string>
+    <string name="have_account">Zaten hesabınız var mı?</string>
+
+    <!-- Sohbet Odaları -->
+    <string name="chat_rooms">Sohbet Odaları</string>
+    <string name="create_chat">Yeni Sohbet</string>
+    <string name="no_chats">Henüz sohbet odanız yok</string>
+    <string name="create_first_chat">İlk sohbetinizi oluşturun</string>
+
+    <!-- Sohbet Oluşturma -->
+    <string name="new_chat">Yeni Sohbet</string>
+    <string name="chat_name">Sohbet Adı</string>
+    <string name="create">Oluştur</string>
+    <string name="cancel">İptal</string>
+    <string name="chat_name_hint">Sohbet odasının adını girin</string>
+
+    <!-- Sohbet -->
+    <string name="type_message">Mesaj yazın...</string>
+    <string name="send">Gönder</string>
+    <string name="no_messages">Henüz mesaj yok</string>
+    <string name="message_sent">Mesaj gönderildi</string>
+    <string name="message_failed">Mesaj gönderilemedi</string>
+
+    <!-- Hata Mesajları -->
+    <string name="error_required">Bu alan zorunludur</string>
+    <string name="error_invalid_email">Geçersiz e-posta adresi</string>
+    <string name="error_short_password">Şifre en az 6 karakter olmalıdır</string>
+    <string name="error_network">İnternet bağlantısı yok</string>
+    <string name="error_unknown">Bir hata oluştu</string>
+
+    <!-- Başarı Mesajları -->
+    <string name="success_login">Giriş başarılı</string>
+    <string name="success_register">Kayıt başarılı</string>
+    <string name="success_chat_created">Sohbet odası oluşturuldu</string>
+
+    <!-- Ayarlar -->
+    <string name="settings">Ayarlar</string>
+    <string name="profile">Profil</string>
+    <string name="notifications">Bildirimler</string>
+    <string name="dark_mode">Karanlık Mod</string>
+    <string name="language">Dil</string>
+    <string name="logout">Çıkış Yap</string>
+
+    <!-- Diğer -->
+    <string name="loading">Yükleniyor...</string>
+    <string name="retry">Tekrar Dene</string>
+    <string name="ok">Tamam</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+</resources>

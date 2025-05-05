@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Ana renkler -->
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#FF4081</color>
+
+    <!-- Metin renkleri -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+    <color name="text_white">#FFFFFF</color>
+
+    <!-- Arka plan renkleri -->
+    <color name="background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="error">#F44336</color>
+
+    <!-- Mesaj balonları -->
+    <color name="message_sent">#DCF8C6</color>
+    <color name="message_received">#FFFFFF</color>
+
+    <!-- Diğer -->
+    <color name="divider">#E0E0E0</color>
+    <color name="ripple">#1A000000</color>
+
+    <!-- Eksik klasik renkler (layout dosyaları için) -->
+    <color name="red">#F44336</color>
+    <color name="green">#4CAF50</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
